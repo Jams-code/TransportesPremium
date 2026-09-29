@@ -1,0 +1,5 @@
+IMAGENES PARA EL PROYECTO ANGULAR
+
+- img/: versiones editadas conservando el tamaño/orientación original.
+- img/movil/: versiones 1080x1350 optimizadas para pantallas móviles, conservando toda la imagen sobre un fondo desenfocado para evitar recortes agresivos.
+- Las matrículas/placas visibles y sus réplicas identificadoras principales fueron cubiertas en blanco.
